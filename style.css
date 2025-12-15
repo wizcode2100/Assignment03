@@ -49,6 +49,7 @@
 
     margin-top: 15px;
     height: 150px;
+    text-align: center;
     background-color: lightsteelblue;
     color:darkviolet;
 }
@@ -587,3 +588,21 @@
    } 
 
 }
+
+@media screen and (max-width: 502px){
+
+    .footer-item{
+
+        width: 167px;
+    }
+}
+
+
+@media screen and (max-width: 500px){
+
+    .footer-item{
+
+        width: 166px;
+    }
+}
+
